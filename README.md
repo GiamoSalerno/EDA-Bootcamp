@@ -1,6 +1,6 @@
 # Análisis Exploratorio de Datos
 
-![portada](.\EDA\src\img\portada.png) 
+![portada](./EDA/src/img/portada.png)
 
 Mediante el estudio de cinco diferentes metabolitos, se resuelven algunas interrogantes como cuáles son los países que más drogas consumen a nivel europeo, si hay alguna relación con el crecimiento de la población o si la pandemia ha impactado en el uso de drogas a través del continente.  
 
